@@ -1,7 +1,7 @@
 # Planning Methods Jupyter Book
 Jupyter Book with Planning Methods examples.
 
-Will be moving Jupter Notebooks from (GitHub Repo)[https://github.com/npr99/PlanningMethods] to a Jupyter Book.
+Will be moving Jupter Notebooks from the GitHub repository [npr99/PlanningMethods](https://github.com/npr99/PlanningMethods) to create a Jupyter Book.
 
 Learning how to make a Jupyter Book:
 1. Qiusheng Wu 2022 Creating an open-source book with Jupyter Book and Jupytext https://www.youtube.com/watch?v=jUdXs4OPR84&t=1912s
