@@ -22,6 +22,10 @@ Need to see how to publish to github pages.
 
 
 
+## October 14, 2022 - Interesting resource for using Bokeh
+The Jupyter Book style in mybinder is a great idea
+https://github.com/bokeh/bokeh-notebooks/tree/main
+
 ## September 15, 2022 - Add Jupyter Book Files
 
 Files copied from 
