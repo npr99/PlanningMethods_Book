@@ -5,6 +5,10 @@ Create jupyter book for Planning Methods course
 ===============================
 ## Work Log - Notes in reverse chronological order
 
+## October 14, 2022 - Interesting resource for using Bokeh
+The Jupyter Book style in mybinder is a great idea
+https://github.com/bokeh/bokeh-notebooks/tree/main
+
 ## September 15, 2022 - required files setup next...
 
 Setup environment for jupyter book:
@@ -20,11 +24,6 @@ I think I have most of the template files setup.
 Need to see how to publish to github pages.
 - https://jupyterbook.org/en/stable/start/publish.html
 
-
-
-## October 14, 2022 - Interesting resource for using Bokeh
-The Jupyter Book style in mybinder is a great idea
-https://github.com/bokeh/bokeh-notebooks/tree/main
 
 ## September 15, 2022 - Add Jupyter Book Files
 
