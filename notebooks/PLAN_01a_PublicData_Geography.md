@@ -1,0 +1,1 @@
+All population and economic data has a geography (where) and a date (when), but not all geographies and dates have population and economic data.

@@ -5,6 +5,11 @@ Create jupyter book for Planning Methods course
 ===============================
 ## Work Log - Notes in reverse chronological order
 
+## December 1, 2022 - copy notebooks from 
+https://github.com/npr99/PlanningMethods 
+
+
+
 ## October 14, 2022 - Interesting resource for using Bokeh
 The Jupyter Book style in mybinder is a great idea
 https://github.com/bokeh/bokeh-notebooks/tree/main
