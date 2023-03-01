@@ -29,6 +29,7 @@ The US Census Bureau collects data on race and ethnicity using two separate ques
 Tables 3.3 provides a comparison of race and ethnicity composition for the United States between the 2010 Decennial Census and the 2018 1-year ACS. Table 3.3 reports the percentage of the population for each racial subgroup for both Hispanic or Latino and Not Hispanic or Latino ethnicity options. For the United States the white alone, not Hispanic or Latino population was the largest racial-ethnic group with 64% of the population in 2010 and 60% of the population in 2018. The Hispanic population (of any race) made up 16% of the US population in 2010 and 18% of the population in 2018. The black or African American, not Hispanic or Latino population made up just over 12% of the population in 2010 and 2018. Table 3.3 shows the racial and ethnic composition of the US in both 2010 and 2018.
 
 Table 3.3 Comparison of percent of total population in the United States by race and ethnicity, 2010 and 2018.
+
 ![Table example race and ethnicity](https://raw.githubusercontent.com/npr99/PLANNINGMETHODS_BOOK/main/.github/images/Rosenheim_2019_RaceEthnicity_Table1.JPG)
 
 Source: Decennial Census Table P5, ACS Table B03002 (US Census Bureau, 2010c, 2018b)
@@ -36,7 +37,9 @@ Source: Decennial Census Table P5, ACS Table B03002 (US Census Bureau, 2010c, 20
 To better understand changes in population composition Table 3.4 takes the data in Table 3.3 to compare absolute and percent change in population by race and ethnicity groups. Table 3.4 highlights that while the white alone, not Hispanic or Latino population is the largest population subgroup the population group did not grown significantly between 2010 and 2018. By comparison, the Hispanic population (of any race) had the largest absolute change with an increase of over 9.2 million people, which was half of the 18.4 million total population increase. Population increases were also significant among black (2.6 million), Asian (3.7 million), and people that reported two or more races (2.3 million). The decrease in American Indian and Alaska Native total population from 2.9 million to 2.8 million (-130,661) people is cause for concern. The decrease suggests possible disparities, with either higher mortality or lower fertility rates, and requires further investigation. However, some of the decrease may be due to Margins of Error in the ACS survey estimates.  
 
 Table 3.4 Comparison of absolute and percent change of population in the United States by race and ethnicity, 2010 and 2018.
+
 ![Table example race and ethnicity](https://raw.githubusercontent.com/npr99/PLANNINGMETHODS_BOOK/main/.github/images/Rosenheim_2019_RaceEthnicity_Table2.JPG)
+
 Source: Decennial Census Table P5, ACS Table B03002 (US Census Bureau, 2010c, 2018b)
 
 
