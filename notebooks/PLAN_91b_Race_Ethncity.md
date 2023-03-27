@@ -20,6 +20,15 @@ The White - Replace with “White, Hispanic or Non-Hispanic”
 
 With regards to including race and ethnicity in the analysis. In my field it is more appropriate to use the two questions (race and Hispanic) to define a variable to identify White, non-Hispanic and Hispanic. The current model will double count Hispanic individuals, as they will be included both in “The White” variable and the “Hispanic” variable. Consider creating a White, non-Hispanic variable to reduce collinearity in your model. If you do not change the model you must specify that the model is limited in that race and ethnicity are not mutually exclusive and that any time the paper refers to coefficients related to “White” that this variable also includes individuals who identify as both Hispanic and White.
 
+-----
+## How to write about aging
+Colleague Marcia Ory (TAMU Public Health)
+
+Instead of the words “Seniors,” “elderly,” “aging dependents,” and similar “other-ing” terms that stoke stereotypes. Try using more neutral (“older people/Americans”) and inclusive (“we” and “us”) terms.
+
+https://www.geron.org/press-room/press-releases/2022-press-releases/1432-reframing-aging-initiative-releases-guide-to-advance-inclusive-language-about-aging
+Quick Start Guide: https://www.reframingaging.org/Portals/gsa-ra/QuickStartGuide_PrintReady_REV.pdf 
+
 ----- 
 
 Race and ethnicity composition data plays many important roles in the planning process. These data help to provide “reliable portraits of the present and past to inform and engage the public” (Berke et al., 2006, p. 143). Furthermore, race and ethnicity composition data are important for the principles that urban planners aspire to, specifically to help planners “seek social justice… and to promote racial… integration” (American Planning Association, 2016).
