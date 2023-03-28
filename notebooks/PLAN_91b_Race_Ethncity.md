@@ -61,7 +61,8 @@ References
 American Planning Association. (2016). AICP Code of Ethics and Professional Conduct. Retrieved from https://www.planning.org/ethics/ethicscode/
 US Census Bureau Glossary. (n.d.). Glossary. Retrieved From: https://www.census.gov/glossary/
 US Census Bureau. (2010b). Table DP-1: Profile of General Population and Housing Characteristics. 2010 Census Summary File 1. Washington, DC. Retrieved from https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/SF1DP1/0100000US|0400000US11|0400000US48 
-US Census Bureau. (2010c). Table P5: HISPANIC OR LATINO ORIGIN BY RACE. 2010 Census Summary File 1. Washington, DC. Retrieved from Retrieved from https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/P5/0100000US|0400000US11|0400000US48
+US Census Bureau. (2010c). Table P5: HISPANIC OR LATINO ORIGIN BY RACE. 2010 Census Summary File 1. Washington, DC. Retrieved from https://factfinder.census.gov/bkmk/table/1.0/en/DEC/10_SF1/P5/0100000US|0400000US11|0400000US48
 US Census Bureau. (2018a). Table B01003: Total Population. American Community Survey. US Census Bureau’s American Community Survey Office, 2019. Retrieved from https://data.census.gov/cedsci/table?q=B01003&table=B01003&tid=ACSDT1Y2018.B01003&g=0100000US_0400000US48,11
 US Census Bureau. (2018b). Table B03002: HISPANIC OR LATINO ORIGIN BY RACE. American Community Survey. US Census Bureau’s American Community Survey Office, 2019. Retrieved from https://data.census.gov/cedsci/table?q=b03002&table=B03002&tid=ACSDT1Y2018.B03002&g=0100000US_0400000US48,11
 
+US Census Bureau. (2023). Racial Identification for the Self-Reported Hispanic or Latino Population: 2010 and 2020 Census. Retrieved from https://www.census.gov/data/tables/time-series/demo/hispanic-origin/racial-identification.html?utm_campaign=20230328msc20s1ccnwsrs&utm_medium=email&utm_source=govdelivery
